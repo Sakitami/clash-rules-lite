@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,gamemale.com
+  - DOMAIN-SUFFIX,e621.net
+  - DOMAIN-SUFFIX,furaffinity.net
+  - DOMAIN-SUFFIX,cloud.skihome.xyz
+  - DOMAIN-SUFFIX,cloud.vokami.site
+  - DOMAIN-SUFFIX,blog.skihome.xyz
+  - DOMAIN-SUFFIX,f-doid.com
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,vocabulary.com
+  - DOMAIN-SUFFIX,ilovepdf.com
+  - DOMAIN-SUFFIX,kee.so
+  - DOMAIN-SUFFIX,typekit.net
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,onekey.so
+  - DOMAIN-SUFFIX,datawallet.com
+  - DOMAIN-SUFFIX,vcanbb.top
+  - DOMAIN-SUFFIX,open-vsx.org
+  - DOMAIN-SUFFIX,eqing.tech
+  - DOMAIN-SUFFIX,new.space
+  - DOMAIN-SUFFIX,dmit.io
+  - DOMAIN-SUFFIX,pokemon.com
