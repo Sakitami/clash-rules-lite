@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/custom-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/direct-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/fcm-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/game-platform-rules.txt
-https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/gfw-rules.txt
+https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/gfw-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/global-video-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/microsoft-rules.txt
 https://cdn.jsdelivr.net/gh/sakitami/clash-rules-lite@release/ms-bing-rules.txt
