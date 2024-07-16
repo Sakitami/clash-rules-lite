@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "adobe.com",
+        "blog.skihome.xyz",
+        "cloud.skihome.xyz",
+        "cloud.vokami.site",
+        "datawallet.com",
+        "dmit.io",
+        "e621.net",
+        "eqing.tech",
+        "f-doid.com",
+        "furaffinity.net",
+        "gamemale.com",
+        "ilovepdf.com",
+        "kee.so",
+        "new.space",
+        "onekey.so",
+        "open-vsx.org",
+        "oracle.com",
+        "pokemon.com",
+        "typekit.net",
+        "vcanbb.top",
+        "vocabulary.com"
+      ]
+    }
+  ],
+  "version": 1
+}

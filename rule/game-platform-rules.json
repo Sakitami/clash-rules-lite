@@ -1,0 +1,63 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cloudsync-prod.s3.amazonaws.com",
+        "eaasserts-a.akamaihd.net",
+        "origin-a.akamaihd.net",
+        "originasserts.akamaized.net",
+        "rtm.tnt-ea.com",
+        "steambroadcast.akamaized.net",
+        "steamcommunity-a.akamaihd.net",
+        "steampipe.akamaized.net",
+        "steamstore-a.akamaihd.net",
+        "steamusercontent-a.akamaihd.net",
+        "steamuserimages-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ea.com",
+        "epicgames.com",
+        "epicgames.dev",
+        "fanatical.com",
+        "helpshift.com",
+        "humblebundle.com",
+        "nintendo-europe.com",
+        "nintendo.be",
+        "nintendo.co.jp",
+        "nintendo.co.uk",
+        "nintendo.com",
+        "nintendo.com.au",
+        "nintendo.de",
+        "nintendo.es",
+        "nintendo.eu",
+        "nintendo.fr",
+        "nintendo.it",
+        "nintendo.jp",
+        "nintendo.net",
+        "nintendo.nl",
+        "nintendowifi.net",
+        "origin.com",
+        "paragon.com",
+        "playartifact.com",
+        "playstation.com",
+        "playstation.net",
+        "playstationnetwork.com",
+        "sony.com",
+        "sonyentertainmentnetwork.com",
+        "steam-chat.com",
+        "steamcommunity.com",
+        "steamgames.com",
+        "steampowered.com",
+        "steamserver.net",
+        "steamstat.us",
+        "steamstatic.com",
+        "underlords.com",
+        "unrealengine.com",
+        "valvesoftware.com"
+      ]
+    }
+  ],
+  "version": 1
+}

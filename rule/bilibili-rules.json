@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "apiintl.biliapi.net",
+        "p-bstarstatic.akamaized.net",
+        "p.bstarstatic.com",
+        "upos-bstar-mirrorakam.akamaized.net",
+        "upos-bstar1-mirrorakam.akamaized.net",
+        "upos-hz-mirrorakam.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acg.tv",
+        "acgvideo.com",
+        "b23.tv",
+        "bigfun.cn",
+        "bigfunapp.cn",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.co",
+        "bilibili.com",
+        "bilibili.tv",
+        "biligame.com",
+        "biligame.net",
+        "biliintl.co",
+        "bilivideo.cn",
+        "bilivideo.com",
+        "hdslb.com",
+        "im9.com",
+        "smtcdns.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.151.150.0/23",
+        "119.29.29.29/32",
+        "128.1.62.200/32",
+        "128.1.62.201/32",
+        "150.116.92.250/32",
+        "164.52.33.178/32",
+        "164.52.33.182/32",
+        "164.52.76.18/32",
+        "203.107.1.33/32",
+        "203.107.1.34/32",
+        "203.107.1.65/32",
+        "203.107.1.66/32",
+        "45.43.32.234/32"
+      ]
+    }
+  ],
+  "version": 1
+}
