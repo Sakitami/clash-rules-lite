@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - '*.txt'
+      - "*.json"
       - '.github/workflows/**'
 jobs:
   build:
