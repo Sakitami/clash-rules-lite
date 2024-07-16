@@ -700,10 +700,10 @@ payload:
   - IP-CIDR,172.16.102.56/32,no-resolve
   - IP-CIDR,185.188.32.1/28,no-resolve
   - IP-CIDR,221.226.128.146/32,no-resolve
-  - IP-CIDR6,2a0b:b580::/48,no-resolve
-  - IP-CIDR6,2a0b:b581::/48,no-resolve
-  - IP-CIDR6,2a0b:b582::/48,no-resolve
-  - IP-CIDR6,2a0b:b583::/48,no-resolve
+  - IP-CIDR6,2a0b:b580::/48
+  - IP-CIDR6,2a0b:b581::/48
+  - IP-CIDR6,2a0b:b582::/48
+  - IP-CIDR6,2a0b:b583::/48
   - IP-CIDR,8.128.0.0/10,no-resolve
   - IP-CIDR,8.208.0.0/12,no-resolve
   - IP-CIDR,14.1.112.0/22,no-resolve
