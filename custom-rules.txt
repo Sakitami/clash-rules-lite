@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,cloud.skihome.xyz
   - DOMAIN-SUFFIX,cloud.vokami.site
   - DOMAIN-SUFFIX,blog.skihome.xyz
-  - DOMAIN-SUFFIX,f-doid.com
+  - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,vocabulary.com
   - DOMAIN-SUFFIX,ilovepdf.com
