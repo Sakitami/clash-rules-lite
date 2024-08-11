@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,dmit.io
   - DOMAIN-SUFFIX,pokemon.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,zerotier.com
