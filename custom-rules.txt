@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,zerotier.com
   - DOMAIN-SUFFIX,alphacoders.com
+  - DOMAIN-SUFFIX,gethomepage.dev
