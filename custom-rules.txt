@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,zerotier.com
   - DOMAIN-SUFFIX,alphacoders.com
   - DOMAIN-SUFFIX,gethomepage.dev
+  - DOMAIN-SUFFIX,minebbs.com
