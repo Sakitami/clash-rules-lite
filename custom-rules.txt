@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,alphacoders.com
   - DOMAIN-SUFFIX,gethomepage.dev
   - DOMAIN-SUFFIX,minebbs.com
+  - DOMAIN-SUFFIX,openmediavault.org
