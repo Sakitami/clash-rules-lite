@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,gethomepage.dev
   - DOMAIN-SUFFIX,minebbs.com
   - DOMAIN-SUFFIX,openmediavault.org
+  - DOMAIN-SUFFIX,arc.net
