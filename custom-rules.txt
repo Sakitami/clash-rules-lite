@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,minebbs.com
   - DOMAIN-SUFFIX,openmediavault.org
   - DOMAIN-SUFFIX,arc.net
+  - DOMAIN-SUFFIX,icc2022.com
