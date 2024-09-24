@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,openmediavault.org
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,icc2022.com
+  - DOMAIN-SUFFIX,pokemon-support.com
