@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,icc2022.com
   - DOMAIN-SUFFIX,pokemon-support.com
+  - DOMAIN-SUFFIX,skyscanner.com
