@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,pokemon-support.com
   - DOMAIN-SUFFIX,skyscanner.com
   - DOMAIN-SUFFIX,bsky.social
+  - DOMAIN-SUFFIX,bsky.app
