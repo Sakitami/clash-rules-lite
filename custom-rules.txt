@@ -33,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,skyscanner.com
   - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,konami.net
