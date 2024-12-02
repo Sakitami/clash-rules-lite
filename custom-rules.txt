@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,skyscanner.com
   - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,pretendo.network
