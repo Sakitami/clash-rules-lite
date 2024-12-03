@@ -38,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,pretendo.network
   - DOMAIN-SUFFIX,pretendo.cc
+  - DOMAIN-SUFFIX,pnnex.cc
