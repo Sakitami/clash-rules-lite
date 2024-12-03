@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,pretendo.network
+  - DOMAIN-SUFFIX,pretendo.cc
