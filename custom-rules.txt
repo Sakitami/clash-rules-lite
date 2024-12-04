@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,pretendo.network
   - DOMAIN-SUFFIX,pretendo.cc
   - DOMAIN-SUFFIX,pnnex.cc
+  - DOMAIN-SUFFIX,erista.me
