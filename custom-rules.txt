@@ -40,4 +40,4 @@ payload:
   - DOMAIN-SUFFIX,pretendo.cc
   - DOMAIN-SUFFIX,pnnex.cc
   - DOMAIN-SUFFIX,erista.me
-  - DOMAIN-SUFFIX, universal-team.net
+  - DOMAIN-SUFFIX,universal-team.net
