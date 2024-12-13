@@ -41,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,pnnex.cc
   - DOMAIN-SUFFIX,erista.me
   - DOMAIN-SUFFIX,universal-team.net
+  - DOMAIN-SUFFIX,patreonusercontent.com
