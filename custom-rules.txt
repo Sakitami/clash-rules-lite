@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,erista.me
   - DOMAIN-SUFFIX,universal-team.net
   - DOMAIN-SUFFIX,patreonusercontent.com
+  - DOMAIN-SUFFIX,mirror.us.leaseweb.net
