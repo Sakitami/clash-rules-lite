@@ -43,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,universal-team.net
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,mirror.us.leaseweb.net
+  - DOMAIN-SUFFIX,giffgaff.com
