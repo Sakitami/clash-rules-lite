@@ -5,6 +5,17 @@ payload:
   - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
   - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
+  - DOMAIN-SUFFIX,giffgaff.com
+  - DOMAIN-SUFFIX,giffgaff.co.uk
+  - DOMAIN-SUFFIX,gw.giffgaff.com
+  - DOMAIN-SUFFIX,api.giffgaff.com
+  - DOMAIN-SUFFIX,sms.giffgaff.com
+  - DOMAIN-SUFFIX,gw-bb.giffgaff.com
+  - DOMAIN-SUFFIX,www.o2.co.uk
+  - DOMAIN-SUFFIX,o2.co.uk
   - IP-CIDR,88.82.0.0/19
   - IP-CIDR,46.68.0.0/17
   - IP-CIDR,87.194.0.0/16
+  - IP-CIDR,185.45.160.0/22
+  - IP-CIDR,185.45.164.0/22
+  - IP-CIDR,93.84.220.0/22
