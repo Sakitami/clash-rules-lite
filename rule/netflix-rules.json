@@ -2,6 +2,8 @@
   "rules": [
     {
       "domain": [
+        "e13252.dscg.akamaiedge.net",
+        "h-netflix.online-metrix.net",
         "netflix.com.edgesuite.net"
       ]
     },
@@ -9,16 +11,22 @@
       "domain_keyword": [
         "apiproxy-device-prod-nlb-",
         "dualstack.apiproxy-",
+        "dualstack.ichnaea-web-",
         "netflixdnstest"
       ]
     },
     {
       "domain_suffix": [
+        "cookielaw.org",
         "fast.com",
+        "flxvpn.net",
+        "netflix.ca",
         "netflix.com",
+        "netflix.com.au",
         "netflix.net",
         "netflixdnstest0.com",
         "netflixdnstest1.com",
+        "netflixdnstest10.com",
         "netflixdnstest2.com",
         "netflixdnstest3.com",
         "netflixdnstest4.com",
@@ -27,11 +35,17 @@
         "netflixdnstest7.com",
         "netflixdnstest8.com",
         "netflixdnstest9.com",
+        "netflixinvestor.com",
+        "netflixstudios.com",
+        "netflixtechblog.com",
         "nflxext.com",
         "nflximg.com",
         "nflximg.net",
+        "nflxsearch.net",
         "nflxso.net",
-        "nflxvideo.net"
+        "nflxvideo.net",
+        "onetrust.com",
+        "us-west-2.amazonaws.com"
       ]
     },
     {
