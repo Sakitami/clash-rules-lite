@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.giffgaff.com",
+        "entsrv-uk.vodafone.com",
+        "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "giffgaff.co.uk",
+        "giffgaff.com",
+        "gspe1-ssl.ls.apple.com",
+        "gw-bb.giffgaff.com",
+        "gw.giffgaff.com",
+        "o2.co.uk",
+        "sms.giffgaff.com",
+        "ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org",
+        "ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "vuk-gto.prod.ondemandconnectivity.com",
+        "www.o2.co.uk"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "185.45.160.0/22",
+        "185.45.164.0/22",
+        "46.68.0.0/17",
+        "87.194.0.0/16",
+        "88.82.0.0/19",
+        "93.84.220.0/22"
+      ]
+    }
+  ],
+  "version": 1
+}
