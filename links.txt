@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/netflix-rules.t
 https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/openai-rules.txt
 https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/telegram-rules.txt
 https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/youtube-rules.txt
+https://raw.githubusercontent.com/sakitami/clash-rules-lite/main/giffgaff-rules.txt
