@@ -44,3 +44,4 @@ payload:
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,mirror.us.leaseweb.net
   - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,mygaysites.com
