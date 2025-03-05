@@ -45,3 +45,4 @@ payload:
   - DOMAIN-SUFFIX,mirror.us.leaseweb.net
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,mygaysites.com
+  - DOMAIN-SUFFIX,api.cloudflare.com
