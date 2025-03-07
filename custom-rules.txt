@@ -46,3 +46,13 @@ payload:
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,mygaysites.com
   - DOMAIN-SUFFIX,api.cloudflare.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,lsposed.org
+  - DOMAIN-SUFFIX,rustdesk.com
+  - DOMAIN-SUFFIX,icons8.com
+  - DOMAIN-SUFFIX,davx5.com
+  - DOMAIN-SUFFIX,rg-adguard.net
+  - DOMAIN-SUFFIX,zerotier.com
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,calibre-ebook.com
+  - DOMAIN-SUFFIX,right.com.cn
