@@ -56,3 +56,4 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,calibre-ebook.com
   - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN-SUFFIX,myppt.cc
