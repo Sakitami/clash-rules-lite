@@ -58,3 +58,6 @@ payload:
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,myppt.cc
   - DOMAIN-SUFFIX,lurl.cc
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,diabrowser.engineering
+  - DOMAIN-SUFFIX,diabrowser.com
