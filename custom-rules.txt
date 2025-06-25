@@ -61,3 +61,4 @@ payload:
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,diabrowser.com
+  - DOMAIN-SUFFIX,metacritic.com
