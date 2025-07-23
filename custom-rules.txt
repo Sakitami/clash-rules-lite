@@ -62,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,metacritic.com
+  - DOMAIN-SUFFIX,tofile.cc
