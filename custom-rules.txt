@@ -63,3 +63,24 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,tofile.cc
+  - DOMAIN-SUFFIX,tronlink.org
+  - DOMAIN-SUFFIX,imagedelivery.net
+  - DOMAIN-SUFFIX,qrserver.com
+  - DOMAIN-SUFFIX,pokepay.cc
+  - DOMAIN-SUFFIX,ygpy.net
+  - DOMAIN-SUFFIX,nmnm.fun
+  - DOMAIN-SUFFIX,nnr.moe
+  - DOMAIN-SUFFIX,typekit.net
+  - DOMAIN-SUFFIX,back4app.com
+  - DOMAIN-SUFFIX,namecheap.com
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,tally.so
+  - DOMAIN-SUFFIX,daxiaamu.com
+  - DOMAIN-SUFFIX,baoyu.io
+  - DOMAIN-SUFFIX,esim.gg
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,lsky.pro
+  - DOMAIN-SUFFIX,trustpilot.com
