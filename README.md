@@ -5,24 +5,24 @@
   <p align="center">🍒 自定义代理规则，精简匹配规则。</p>
  
   <p align="center">
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/master/.github/workflows/release.yml">
-    <img src="https://github.com/zhanyeye/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
+    <a href="https://github.com/Sakitami/clash-rules-lite/blob/master/.github/workflows/release.yml">
+    <img src="https://github.com/Sakitami/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
     </a>
   </p>
  
   <p align="center">
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/proxy-rules.txt">代理规则列表</a> |
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/microsoft-rules.txt">微软服务规则列表</a> |
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/blacklist-rules.txt">黑名单规则列表</a>
+    <a href="https://github.com/Sakitami/clash-rules-lite/blob/main/proxy-rules.txt">代理规则列表</a> |
+    <a href="https://github.com/Sakitami/clash-rules-lite/blob/main/microsoft-rules.txt">微软服务规则列表</a> |
+    <a href="https://github.com/Sakitami/clash-rules-lite/blob/main/blacklist-rules.txt">黑名单规则列表</a>
   </p>
 
 </p>
 
 <p>
   <pre align="center">
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/proxy-rules.txt    
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/microsoft-rules.txt
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/blacklist-rules.txt</pre>
+  https://cdn.jsdelivr.net/gh/Sakitami/clash-rules-lite@release/proxy-rules.txt    
+  https://cdn.jsdelivr.net/gh/Sakitami/clash-rules-lite@release/microsoft-rules.txt
+  https://cdn.jsdelivr.net/gh/Sakitami/clash-rules-lite@release/blacklist-rules.txt</pre>
 </p>
 <p align="center">
 已稳定使用2年的机场推荐：https://sspcloud.net/#/register?code=4L83QEU9
@@ -32,7 +32,7 @@
 + Clash 默认的GFW代理规则内容太多，使用过程中明显感觉到有延迟
 + 本工具的想法是代理规则一边用一边添加，毕竟我们访问的网站应该很有限
 + 该工具的目的是删除不必要的代理规则，方便用户自定义代理的内容
-+ 代理规则放在github仓库中方便多设备同步，只需编辑[rules.txt](https://github.com/zhanyeye/clash-rules-lite/blob/main/rules.txt)即可
++ 代理规则放在github仓库中方便多设备同步，只需编辑[rules.txt](https://github.com/Sakitami/clash-rules-lite/blob/main/rules.txt)即可
 + 当用户更新规则后，使用Github Actions自动将规则缓存到免费CDN上 
 + 用户在 github 上更新规则后，在 clash 的 providers 上点击刷新即可拉取更新
 
