@@ -84,3 +84,4 @@ payload:
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,lsky.pro
   - DOMAIN-SUFFIX,trustpilot.com
+  - DOMAIN-SUFFIX,wplace.live
