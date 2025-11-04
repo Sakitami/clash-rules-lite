@@ -85,3 +85,4 @@ payload:
   - DOMAIN-SUFFIX,lsky.pro
   - DOMAIN-SUFFIX,trustpilot.com
   - DOMAIN-SUFFIX,wplace.live
+  - DOMAIN-SUFFIX,manus.im
