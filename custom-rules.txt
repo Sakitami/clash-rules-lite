@@ -89,3 +89,10 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp-plus.net
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-SUFFIX,giphy.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,static.cdninstagram.com
