@@ -86,3 +86,6 @@ payload:
   - DOMAIN-SUFFIX,trustpilot.com
   - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,wa.me
