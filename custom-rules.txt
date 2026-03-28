@@ -98,3 +98,5 @@ payload:
   - DOMAIN-SUFFIX,giphy.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,static.cdninstagram.com
+  - DOMAIN-SUFFIX,bagevm.com
+  - DOMAIN-SUFFIX,brid.gy
