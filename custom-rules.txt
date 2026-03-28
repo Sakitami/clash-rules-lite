@@ -100,3 +100,4 @@ payload:
   - DOMAIN-SUFFIX,static.cdninstagram.com
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,brid.gy
+  - DOMAIN-SUFFIX,purelymail.com
