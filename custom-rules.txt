@@ -101,3 +101,4 @@ payload:
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,brid.gy
   - DOMAIN-SUFFIX,purelymail.com
+  - DOMAIN-SUFFIX,srcloud.art
